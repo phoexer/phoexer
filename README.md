@@ -2,7 +2,8 @@
 I use JavaScript and Python and build things.  
  
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40phoexer)](https://twitter.com/phoexer)
-
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mmusangeya/)](https://www.linkedin.com/in/mmusangeya/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mike@musangeya.com)](mailto:mike@musangeya.com)
 <!--
   https://github.com/anuraghazra/github-readme-stats
 -->
