@@ -8,4 +8,4 @@ I use JavaScript and Rust to build things, some of them are actually useful.
 [![Phoexer's github stats](https://github-readme-stats.vercel.app/api?username=phoexer&count_private=true)](https://mmusangeya.com)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phoexer&hide=c%2B%2B,C&count_private=true&layout=compact)](https://mmusangeya.com)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phoexer&count_private=true&layout=compact)](https://mmusangeya.com)
