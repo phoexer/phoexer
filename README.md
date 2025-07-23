@@ -5,5 +5,5 @@ I use JavaScript and Rust to build things, some of which are actually useful.
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mmusangeya/)](https://www.linkedin.com/in/mmusangeya/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mike@musangeya.com)](mailto:mike@musangeya.com)
   
-|[![Phoexer's github stats](https://github-readme-stats-phoexers-projects.vercel.app/api?username=phoexer)](https://mmusangeya.com)|[![Top Langs](https://github-readme-stats-kappa-orcin-91.vercel.app/api/top-langs/?username=phoexer&count_private=true&layout=compact)](https://mmusangeya.com)|
+|[![Phoexer's github stats](https://github-readme-stats-kappa-orcin-91.vercel.app/api?username=phoexer)](https://mmusangeya.com)|[![Top Langs](https://github-readme-stats-kappa-orcin-91.vercel.app/api/top-langs/?username=phoexer&count_private=true&layout=compact)](https://mmusangeya.com)|
 |---|---|
